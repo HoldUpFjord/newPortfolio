@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/JackMonaco1",
+		href: "https://twitter.com/DominickJMonaco",
 		label: "Twitter",
-		handle: "@JackMonaco1",
+		handle: "@DominckJMonaco",
 	},
 	{
 		icon: <Book size={20} />,
