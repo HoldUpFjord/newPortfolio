@@ -35,7 +35,7 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Dominick J. Monaco. I'm a software engineer adn content creator who is passionate about using technology to improve people's daily lives.
+					Hi, my name is Dominick J. Monaco. I'm a fullstack software engineer that is passionate about technology used to improve peoples lives and the overall public good.<br></br> The majority of my expereince is in the Javascript ecosystem; using tools like React, Typsescipt, and Next.js.
 					
 					<br />
 					Feel free to have a look around {':)'}
