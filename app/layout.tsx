@@ -6,8 +6,8 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "dominickjmona.co",
+		template: "%s | dominickjmona.co",
 	},
 	description: "Climate conscious software engineer.",
 	openGraph: {
@@ -38,11 +38,11 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "DominickJMonaco",
 		card: "summary_large_image",
 	},
 	icons: {
-		shortcut: "/favicon.png",
+		shortcut: "/faviconD.png",
 	},
 };
 const inter = Inter({
