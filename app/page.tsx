@@ -38,7 +38,7 @@ export default function Home() {
 					Hi, my name is Dominick J. Monaco. I'm a fullstack software engineer that is passionate about technology used to improve peoples lives and the overall public good.<br></br> The majority of my expereince is in the Javascript ecosystem; using tools like React, Typsescipt, and Next.js.
 					
 					<br />
-					Feel free to have a look around {':)'}
+				Above you can find links to my portfolio site and socials. {':)'}
 				</h2>
 			</div>
 		</div>

@@ -16,13 +16,13 @@ export const metadata: Metadata = {
 			"Climate conscious software engineer.",
 		url: "dominick-j-mona.co",
 		siteName: "Dominick J. Monaco",
-		images: [
-			{
-				url: "https://chronark.com/og.png",
-				width: 1920,
-				height: 1080,
-			},
-		],
+		// images: [
+		// 	{
+		// 		url: "https://chronark.com/og.png",
+		// 		width: 1920,
+		// 		height: 1080,
+		// 	},
+		// ],
 		locale: "en-US",
 		type: "website",
 	},
